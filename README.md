@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/MzKe44E' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![BernardoPrework](https://github.com/user-attachments/assets/74783925-43d5-47a6-aa3b-fe0873ba7cfc)
+![](https://github.com/annberjin/web102_prework/blob/main/BernardoPrework.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
