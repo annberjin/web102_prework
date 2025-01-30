@@ -25,7 +25,6 @@ Here's a walkthrough of implemented features:
 
 ![](https://github.com/annberjin/web102_prework/blob/main/BernardoPrework.gif)
 
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
 <!-- Recommended tools:
