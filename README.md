@@ -35,6 +35,7 @@ GIF created with imgur
 ## Notes
 
 Describe any challenges encountered while building the app.
+One challenge I faced while building the app was being unaware that certain functions were called when they were not supposed to. In my event listeners, I had passed filterUnfundedOnly() into the paremeters instead of just 'filterUnfundedOnly'. As a result, the function was called before the filter buttons were clicked.
 
 ## License
 
